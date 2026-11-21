@@ -3,9 +3,9 @@
 
 ## Student Information
 
-- **Student Name:** [Feven Solomon Demeke]
-- **GitHub Profile:** [https://github.com/Fevisol]
-- **LinkedIn Profile:** [linkedin.com/in/feven-solomon-demeke-90293b34b]
+- **Student Name:** Feven Solomon Demeke
+- **GitHub Profile:** https://github.com/Fevisol
+- **LinkedIn Profile:** linkedin.com/in/feven-solomon-demeke-90293b34b
 - **Institution:** NXG Tech Academy
 - **Course:** Python Foundation
 - **Duration:** 12 Weeks
