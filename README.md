@@ -54,7 +54,7 @@ By completing this course, I aim to:
 
 | Project | Status |
 |---|---|
-| [Project 01: Student Performance Analyzer](projects/week-01-python-basics/project-01-student-performance-analyzer/) | Not Started |
+| [Project 01: Student Performance Analyzer](projects/week-01-python-basics/project-01-student-performance-analyzer/) | Started |
 | [Project 02: Personal Developer Profile](projects/week-01-python-basics/project-02-personal-developer-profile/) | Not Started |
 
 ### Week 02 – Operators
